@@ -14,5 +14,5 @@ cookbook 'n-and-nodejs',
   :ref => 'v0.0.2'
 
 cookbook 'protractor-selenium-server',
-  :git => 'https://github.com/exratione/protractor-selenium-server-cookbook',
+  :git => 'https://github.com/TimeInvestor/protractor-selenium-server-cookbook',
   :ref => 'v0.0.6'
